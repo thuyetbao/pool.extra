@@ -19,3 +19,4 @@ Imports:
     cli
 Depends:
     DBI
+RoxygenNote: 7.1.1
