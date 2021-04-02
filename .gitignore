@@ -1,3 +1,4 @@
+# R
 .Rproj.user
 .Rhistory
 .RData
@@ -5,3 +6,6 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+# Temporary Folder
+temp/
